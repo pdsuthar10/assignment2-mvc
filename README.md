@@ -1,8 +1,8 @@
-# assignment2-mvc
+## Rockstar-MVC
 
 # This is an assignment for class CSYE7220 which includes a .NET MVC Project.
 
-## How to run
+# How to run
 ```
 dotnet run
 ```
