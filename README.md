@@ -17,3 +17,5 @@ cd assignment2-mvc
 ```
 dotnet run
 ```
+
+### The webapp will run on http://localhost:5002/
